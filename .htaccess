@@ -1,0 +1,2 @@
+RewriteEngineOn
+RewriteCond%{HTTP_HOST} ^example1.com RewriteRule ^(.*) http://example2.com/$1 [P]
