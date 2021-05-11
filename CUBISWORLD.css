@@ -1,15 +1,16 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 836px;
+  min-height: 687px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin: 1px auto;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-image-1 {
   background-image: url("images/cubisphotolink.jpg");
   background-position: 39.86% 50%;
-  min-height: 844px;
+  min-height: 697px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -28,7 +29,7 @@
 
 .u-section-1 .u-image-2 {
   background-image: url("images/183098885_309292883980359_4148719010493077696_n.jpg");
-  min-height: 844px;
+  min-height: 697px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -50,17 +51,12 @@
     min-height: 684px;
   }
 
-  .u-section-1 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-  }
-
   .u-section-1 .u-image-1 {
-    min-height: 696px;
+    min-height: 575px;
   }
 
   .u-section-1 .u-image-2 {
-    min-height: 696px;
+    min-height: 575px;
   }
 }
 
@@ -70,11 +66,11 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 533px;
+    min-height: 440px;
   }
 
   .u-section-1 .u-image-2 {
-    min-height: 533px;
+    min-height: 440px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -89,7 +85,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 800px;
+    min-height: 660px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -98,7 +94,7 @@
   }
 
   .u-section-1 .u-image-2 {
-    min-height: 800px;
+    min-height: 660px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -113,10 +109,10 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 504px;
+    min-height: 416px;
   }
 
   .u-section-1 .u-image-2 {
-    min-height: 504px;
+    min-height: 416px;
   }
 }
